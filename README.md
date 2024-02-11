@@ -8,4 +8,4 @@
 ![Screenshot (60)](https://github.com/TerranceFinleyZ/imperial-tech/assets/112042894/9da8620d-5d57-4200-a224-0b0e87e8df2b)
 ![Screenshot (61)](https://github.com/TerranceFinleyZ/imperial-tech/assets/112042894/af873115-254e-4237-b204-27a600865223)
 
-As of February 11, 2024, we’re facing challenges with limited attention and modest income. However, these small projects serve as the foundation for a future fully scalable business. Every journey begins with small steps, and with dedication and persistence, my vision can grow into something remarkable.
+As of February 11, 2024, we’re facing challenges with limited attention and modest income since starting Nov 24, 2023. However, these small projects serve as the foundation for a future fully scalable business. Every journey begins with small steps, and with dedication and persistence, my vision can grow into something remarkable.
