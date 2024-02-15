@@ -9,6 +9,6 @@
 ![Screenshot (61)](https://github.com/TerranceFinleyZ/imperial-tech/assets/112042894/af873115-254e-4237-b204-27a600865223)
 ![Screenshot (62)](https://github.com/TerranceFinleyZ/imperial-tech/assets/112042894/33825179-624b-4ef4-bc06-5f33f6cc8d9a)
 
-As of February 12, 2024, we’re facing challenges with limited attention and modest income since starting Nov 24, 2023. However, these small projects serve as the foundation for a future fully scalable business. Every journey begins with small steps, and with dedication and persistence, my vision can grow into something remarkable.
+February 12, 2024: We’re facing challenges with limited attention and modest income since starting Nov 24, 2023. However, these small projects serve as the foundation for a future fully scalable business. Every journey begins with small steps, and with dedication and persistence, my vision can grow into something remarkable.
 
-Fed 14, 2024 First paying client for Imperial-tech Building a Book website in Next.js 
+Fed 14, 2024: New paying client for Imperial-tech web design, Building a Book website in Next.js 
