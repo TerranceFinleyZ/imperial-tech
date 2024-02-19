@@ -14,4 +14,5 @@ February 12, 2024: We’re facing challenges with limited attention and modest i
 Fed 14, 2024: New paying client for Imperial-tech web design, Building a Book website in Next.js 
 
 Fed 15, 2024: Planning on resurrecting some of my old E-comm sites, first I will tune them to make sure they are optimized to make as much commission as possible before launching them.
+
 Fed 18, 2024: Making a Facebook page for Alchemy: 
