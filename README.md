@@ -16,3 +16,5 @@ Fed 14, 2024: New paying client for Imperial-tech web design, Building a Book we
 Fed 15, 2024: Planning on resurrecting some of my old E-comm sites, first I will tune them to make sure they are optimized to make as much commission as possible before launching them. https://github.com/TerranceFinleyZ/Alchemy
 
 Fed 18, 2024: Making a Facebook page for Alchemy: 
+
+Fed 19, 2024: started building my stanley cup-Demo-website for my Facebook page "Imp-world".
