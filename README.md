@@ -17,4 +17,4 @@ Fed 15, 2024: Planning on resurrecting some of my old E-comm sites, first I will
 
 Fed 18, 2024: Making a Facebook page for Alchemy: 
 
-Fed 19, 2024: started building my stanley cup-Demo-website for my Facebook page "Imp-world".
+Fed 19, 2024: started building my stanley cup-demo-website built in HTML & CSS for my Facebook page "Imp-world".
