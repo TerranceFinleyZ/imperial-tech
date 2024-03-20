@@ -11,10 +11,18 @@
 
 February 12, 2024: We’re facing challenges with limited attention and modest income since starting Nov 24, 2023. However, these small projects serve as the foundation for a future fully scalable business. Every journey begins with small steps, and with dedication and persistence, my vision can grow into something remarkable.
 
-Fed 14, 2024: New paying client for Imperial-tech web design, Building a Book website in Next.js ( https://theascendancyparadox-officialsite.netlify.app )
+Feb 14, 2024: New paying client for Imperial-tech web design, Building a Book website in Next.js: ( https://theascendancyparadox-officialsite.netlify.app ).
 
-Fed 15, 2024: Planning on resurrecting some of my old E-comm sites, first I will tune them to make sure they are optimized to make as much commission as possible before launching them. https://github.com/TerranceFinleyZ/Alchemy
+Feb 15, 2024: Planning on resurrecting some of my old E-comm sites, first I will tune them to make sure they are optimized to make as much commission as possible before launching them. https://github.com/TerranceFinleyZ/Alchemy.
 
-Fed 18, 2024: Making a Facebook page for Alchemy: 
+Feb 18, 2024: Making a Facebook page for Alchemy: (). 
 
-Fed 19, 2024: started building my stanley cup-demo-website built in HTML & CSS for my Facebook page "Imp-world".
+Feb 19, 2024: started building my stanley cup-demo-website built in HTML & CSS for my Facebook page "Imp-world".
+
+Feb 24, Learning canva. 
+
+March 7, 2024: Planning on building a Saas Dating app using AI and the socio sexual hierarchy.
+
+Mar 15, Refreshing myself on React Native for the Dating app: (Buck's & Doe's).
+
+
