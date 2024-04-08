@@ -29,4 +29,5 @@ Mar 15, Refreshing myself on React Native for the Dating app: (Buck's & Doe's).
 
 April 4, 2024: working on the Pilot of Ascendancy Unity project.
 
-Apr 12, 2024:
+Apr 12, 2024: Working on E-comm Alchemy.
+
