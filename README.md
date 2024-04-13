@@ -31,5 +31,5 @@ April 4, 2024: working on the Pilot of Ascendancy Unity project.
 
 Apr 8, 2024: Updating Imp-order.
 
-Apr 12, 2024: Working on E-comm Alchemy.
+Apr 12, 2024: Working on E-comm Alchemy Need to make sure the strap payment system works.
 
