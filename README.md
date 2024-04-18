@@ -17,7 +17,7 @@ Feb 14, 2024: New paying client for Imperial-tech web design, Building a Book we
 
 Feb 15, 2024: Planning on resurrecting some of my old E-comm sites, first I will tune them to make sure they are optimized to make as much commission as possible before launching them. https://github.com/TerranceFinleyZ/Alchemy.
 
-Feb 18, 2024: Making a Facebook page for Alchemy: (). 
+Feb 18, 2024: Making a Facebook page for Alchemy: (https://www.facebook.com/profile.php?id=100067406171016). 
 
 Feb 19, 2024: started building my stanley cup-demo-website built in HTML & CSS for my Facebook page "Imp-world".
 
