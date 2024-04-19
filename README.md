@@ -34,5 +34,7 @@ Apr 8, 2024: Updating Imp-order.
 
 Apr 12, 2024: Working on E-comm Alchemy Need to make sure the strap payment system works.
 
-Apr 15, 2024 Upgrading Motiv hotels, Motive E-comm, Clean glass, GG.
+Apr 15, 2024: Upgrading Motiv hotels, Motive E-comm, Clean glass, GG.
+
+Apr 18, 2024: Continuing building up Alchemy so I can launch the project ASAP.
 
