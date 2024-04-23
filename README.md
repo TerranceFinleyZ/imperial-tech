@@ -38,3 +38,5 @@ Apr 15, 2024: Upgrading Motiv hotels, Motive E-comm, Clean glass, GG.
 
 Apr 18, 2024: Continuing building up Alchemy so I can launch the project ASAP.
 
+Apr 23, 2024: Building more IT skills (Cyber Analyst)
+
