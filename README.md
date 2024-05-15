@@ -40,3 +40,5 @@ Apr 18, 2024: Continuing building up Alchemy so I can launch the project ASAP.
 
 Apr 23, 2024: Building more IT skills (Cyber Analyst) to connect a new client base.
 
+More studying ....
+
