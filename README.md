@@ -42,3 +42,5 @@ Apr 23, 2024: Building more IT skills (Cyber Analyst) to connect a new client ba
 
 More studying ....
 
+Jul 8, 2024: Built a Team for Maza a website building agency that is powered by Imp-word. 
+
