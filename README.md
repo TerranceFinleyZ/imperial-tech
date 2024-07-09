@@ -44,3 +44,4 @@ More studying ....
 
 Jul 8, 2024: Built a Team for Maza a website building agency that is powered by Imp-word. 
 
+Jul 9, 2024 maping out plans for building a help desk agency called Cyber Desk.
