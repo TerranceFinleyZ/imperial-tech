@@ -49,3 +49,5 @@ Jul 9, 2024: maping out plans for building a help desk agency called Cyber Desk.
 Jul 10, 2024: Recruiting for more Tech teammates and Editor.
 
 Jul 21, 2024: Small team building the C-D & Gaming Website.
+
+Jul 25, 2024: Building promo YouTube channle for the Agency.
