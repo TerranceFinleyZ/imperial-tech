@@ -52,6 +52,8 @@ Jul 21, 2024: Small team building the C-D & Gaming Website.
 
 https://cyber-desk.netlify.app/ ....
 
-Jul 25, 2024: Building promo YouTube channle for the Agency.
+Jul 25, 2024: Building promo YouTube channel for the Agency.
 
 Sep 16, 2024: Build promo video for Meza, also uploaded Luna Games concepts. 
+
+Sep 19, 2024: Meza & Luna channel: https://www.youtube.com/@TerranceFinley-v7h & https://www.youtube.com/@Zodiac_Zion
