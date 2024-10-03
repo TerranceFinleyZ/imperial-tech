@@ -57,3 +57,5 @@ Jul 25, 2024: Building promo YouTube channel for the Agency.
 Sep 16, 2024: Build promo video for Meza, also uploaded Luna Games concepts. 
 
 Sep 19, 2024: Meza & Luna channel: https://www.youtube.com/@TerranceFinley-v7h & https://www.youtube.com/@Zodiac_Zion
+
+Oct, 2, 2024: Developing GLOW a photo and video Editing LIVE website built for Client. 
