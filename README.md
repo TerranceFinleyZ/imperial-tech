@@ -10,56 +10,106 @@
 ![Screenshot (62)](https://github.com/TerranceFinleyZ/imperial-tech/assets/112042894/33825179-624b-4ef4-bc06-5f33f6cc8d9a)
 
 
-February 12, 2024: We’re facing challenges with limited attention and modest income since starting Nov 24, 2023. However, these small projects serve as the foundation for a future fully scalable business. Every journey begins with small steps, and with dedication and persistence, my vision can grow into something remarkable.
+February 12, 2024
 
-Feb 14, 2024: New paying client for Imperial-tech web design, Building a Book website in Next.js: ( https://theascendancyparadox-officialsite.netlify.app ).
+Since starting on November 24, 2023, these initial projects are laying the foundation for a future, fully scalable business. Every journey begins with a single step, and with dedication and persistence, I believe my vision can blossom into something remarkable.
 
-![Screenshot (69)](https://github.com/TerranceFinleyZ/imperial-tech/assets/112042894/ea5365b3-38e7-4c29-b0cf-eac83d761379)
+February 14, 2024
 
-Feb 15, 2024: Planning on resurrecting some of my old E-comm sites, first I will tune them to make sure they are optimized to make as much commission as possible before launching them. https://github.com/TerranceFinleyZ/Alchemy.
+New paying client for Imperial-Tech web design! Building a Book website using Next.js: Link to The Ascendancy Paradox website
 
-Feb 18, 2024: Making a Facebook page for Alchemy: (https://www.facebook.com/profile.php?id=100067406171016). 
+February 15, 2024
 
-Feb 19, 2024: started building my stanley cup-demo-website built in HTML & CSS for my Facebook page "Imp-world".
+Planning to revive some of my old e-commerce sites. Before launching them, I'll optimize them to maximize commission potential. See my Alchemy project on GitHub: Link to Alchemy on GitHub
 
-Feb 24, Learning canva. 
+February 18, 2024
 
-March 7, 2024: Planning on building a Saas Dating app using AI and the socio sexual hierarchy.
+Created a Facebook page for Alchemy: Link to Alchemy Facebook page
 
-Mar 15, Refreshing myself on React Native for the Dating app: (Buck's & Doe's).
+February 19, 2024
 
-April 4, 2024: working on the Pilot of Ascendancy Unity project.
+Started building a Stanley Cup demo website in HTML & CSS for my "Imp-world" Facebook page.
 
-Apr 8, 2024: Updating Imp-order.
+February 24, 2024
 
-Apr 12, 2024: Working on E-comm Alchemy Need to make sure the Stripe payment system works.
+Learning Canva.
 
-Apr 15, 2024: Upgrading Motiv hotels, Motive E-comm, Clean glass, GG.
+March 7, 2024
 
-Apr 18, 2024: Continuing building up Alchemy so I can launch the project ASAP.
+Planning to build a SaaS dating app using AI and the sociosexual hierarchy.
 
-Apr 23, 2024: Building more IT skills (Cyber Analyst) to connect a new client base.
+March 15, 2024
 
-More studying ....
+Refreshing my knowledge of React Native for the dating app development (Buck's & Doe's).
 
-Jul 8, 2024: Built a Team for Maza a website building agency that is powered by Imp-word. (https://meza-web.netlify.app/) 
+April 4, 2024
 
-Jul 9, 2024: maping out plans for building a help desk agency called Cyber Desk.
+Working on the pilot of the Ascendancy Unity project.
 
-Jul 10, 2024: Recruiting for more Tech teammates and Editor.
+April 8, 2024
 
-Jul 21, 2024: Small team building the C-D & Gaming Website.
+Updating Imp-order.
 
-https://cyber-desk.netlify.app/ ....
+April 12, 2024
 
-Jul 25, 2024: Building promo YouTube channel for the Agency.
+Working on the Alchemy e-commerce project. Need to ensure Stripe payment functionality.
 
-Sep 16, 2024: Build promo video for Meza, also uploaded Luna Games concepts. 
+April 15, 2024
 
-Sep 19, 2024: Meza & Luna channel: https://www.youtube.com/@TerranceFinley-v7h & https://www.youtube.com/@Zodiac_Zion
+Upgrading Motiv Hotels, Motive E-comm, Clean Glass, and GG.
 
-Oct 2, 2024: Developing GLOW a photo and video Editing LIVE website built for Client. 
+April 18, 2024
 
-Oct 7, 2024: Developing A new Alchemy E-comm store using Next.js, Framer, Stripe. This will help also with marketing on my Facebook page.
+Continuing to build Alchemy for a quick launch.
 
-Oct 10, 2024: Client Website Glow: https://glow-lux.netlify.app/ .
+April 23, 2024
+
+Developing additional IT skills (Cyber Analyst) to attract a new client base.
+
+(More studying...)
+
+July 8, 2024
+
+Built a team for Meza, a website building agency powered by Imp-word. Check out their website: Link to Meza website
+
+July 9, 2024
+
+Mapping out plans for building a help desk agency called Cyber Desk.
+
+July 10, 2024
+
+Recruiting for more tech team members and an editor.
+
+July 21, 2024
+
+Small team building a website for C-D & Gaming.
+
+Link to Cyber Desk website
+
+July 25, 2024
+
+Building a promotional YouTube channel for the agency.
+
+September 16, 2024
+
+Created a promotional video for Meza and uploaded Luna Games concepts.
+
+September 19, 2024
+
+Meza & Luna channels: Link to Meza YouTube channel & Link to Luna Games YouTube channel
+
+October 2, 2024
+
+Developing GLOW, a live photo and video editing website for a client.
+
+October 7, 2024
+
+Developing a new Alchemy e-commerce store using Next.js, Framer, and Stripe. This will also help with marketing on my Facebook page.
+
+October 10, 2024
+
+Client Website Glow: Link to Glow website
+
+November 2, 2024
+
+Building the Luna gaming website to connect with my YouTube channel and potentially increase views.
