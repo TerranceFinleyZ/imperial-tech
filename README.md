@@ -16,7 +16,7 @@ Since starting on November 24, 2023, these initial projects are laying the found
 
 February 14, 2024
 
-New paying client for Imperial-Tech web design! Building a Book website using Next.js: Link to The Ascendancy Paradox website
+New paying client for Imperial-Tech web design! Building a Book website using Next.js: ( https://theascendancyparadox-officialsite.netlify.app )   
 
 February 15, 2024
 
@@ -70,8 +70,7 @@ Developing additional IT skills (Cyber Analyst) to attract a new client base.
 
 July 8, 2024
 
-Built a team for Meza, a website building agency powered by Imp-word. Check out their website: Link to Meza website
-
+Built a team for Meza, a website building agency powered by Imp-word. Check out their website: ( https://meza-web.netlify.app/ )
 July 9, 2024
 
 Mapping out plans for building a help desk agency called Cyber Desk.
@@ -96,7 +95,7 @@ Created a promotional video for Meza and uploaded Luna Games concepts.
 
 September 19, 2024
 
-Meza & Luna channels: Link to Meza YouTube channel & Link to Luna Games YouTube channel
+Meza & Luna channels: Link to Meza YouTube channel & Link to Luna Games YouTube channel ( https://www.youtube.com/@TerranceFinley-v7h & https://www.youtube.com/@Zodiac_Zion )
 
 October 2, 2024
 
@@ -108,7 +107,7 @@ Developing a new Alchemy e-commerce store using Next.js, Framer, and Stripe. Thi
 
 October 10, 2024
 
-Client Website Glow: Link to Glow website
+Client Website Glow: ( https://glow-lux.netlify.app/ )
 
 November 2, 2024
 
