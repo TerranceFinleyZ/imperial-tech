@@ -85,8 +85,6 @@ July 21, 2024
 
 Small team building a website for C-D & Gaming.
 
-Link to Cyber Desk website
-
 July 25, 2024
 
 Building a promotional YouTube channel for the agency.
