@@ -112,3 +112,7 @@ Client Website Glow: ( https://glow-lux.netlify.app/ )
 November 2, 2024
 
 Building the Luna gaming website to connect with my YouTube channel and potentially increase views.
+
+November 6, 2024
+
+Continue building Luma, renaming it based on feedback.
