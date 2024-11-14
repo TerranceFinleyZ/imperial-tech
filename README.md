@@ -113,10 +113,10 @@ November 2, 2024
 
 Building the Luna gaming website to connect with my YouTube channel and potentially increase views.
 
-November 12, 2024 
-
-https://luma-gaming.netlify.app
-
 November 6, 2024
 
 Continue building Luma, renaming it based on feedback.
+
+November 12, 2024 
+
+https://luma-gaming.netlify.app
