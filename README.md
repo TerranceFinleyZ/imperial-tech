@@ -120,3 +120,7 @@ Continue building Luma, renaming it based on feedback.
 November 12, 2024 
 
 https://luma-gaming.netlify.app
+
+November 21, 2024 
+
+Building New IMP-World website, also Making a blender Logo animation. 
