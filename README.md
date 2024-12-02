@@ -124,3 +124,7 @@ https://luma-gaming.netlify.app
 November 21, 2024 
 
 Building New IMP-World website, also Making a blender Logo animation. 
+
+December 1, 2024
+
+Continuing working on the New IMP-world website.
