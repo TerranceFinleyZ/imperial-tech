@@ -123,11 +123,11 @@ https://luma-gaming.netlify.app
 
 November 21, 2024 
 
-Building New IMP-World website, also Making a blender Logo animation. 
+Building New IMP-World website, in Vite.js using Blender, Adobe, Clerk, Cypto API and ChatGPT-4. 
 
 December 1, 2024
 
-Continuing working on the New IMP-world website.
+Working with AV systems to host events and podcasting.
 
 December 13, 2024
 
