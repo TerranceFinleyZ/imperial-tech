@@ -140,3 +140,7 @@ December 22, 2024
 
 Upgrading Github, Linked-in & started Leetcode progress.
 
+December 23, 2024
+
+Studing iframs, three.js, canvas & webgel.
+
