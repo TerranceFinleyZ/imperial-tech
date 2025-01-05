@@ -144,3 +144,7 @@ December 23, 2024
 
 Studing iframs, three.js, canvas & webgel.
 
+January 5, 2025
+
+Working on new phone port using AI GSAP.
+
