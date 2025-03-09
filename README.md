@@ -155,3 +155,7 @@ Starting the Start-up editing platfom. https://terrance-portfolio.netlify.app/
 March 8, 2025
 
 Finished Port plans on rebrannding.
+
+![Screenshot (18)](https://github.com/user-attachments/assets/e71e6c17-25ad-4552-b523-ef46d12fe489)
+![Screenshot (20)](https://github.com/user-attachments/assets/040291ea-f774-4cc7-ba14-4273cb25a9db)
+![Screenshot (21)](https://github.com/user-attachments/assets/340756f0-ed7a-4817-beb6-dd6db41441dd)
