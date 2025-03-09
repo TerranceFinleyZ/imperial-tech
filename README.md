@@ -150,9 +150,11 @@ Working on new phone port using AI GSAP.
 
 January 17, 2025
 
-Starting the Start-up editing platfom. https://terrance-portfolio.netlify.app/
+Starting the Start-up editing platfom. 
 
 March 8, 2025
+
+https://terrance-portfolio.netlify.app/
 
 Finished Port plans on rebrannding.
 
