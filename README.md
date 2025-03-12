@@ -1,5 +1,7 @@
 # Imperial-World.
 
+rebranding from Mel-tech into IMP-world
+
 https://www.facebook.com/imperialworld.2023
 
 Nov. 24, 2023
@@ -161,3 +163,7 @@ Finished Port plans on rebrannding.
 ![Screenshot (18)](https://github.com/user-attachments/assets/e71e6c17-25ad-4552-b523-ef46d12fe489)
 ![Screenshot (20)](https://github.com/user-attachments/assets/040291ea-f774-4cc7-ba14-4273cb25a9db)
 ![Screenshot (21)](https://github.com/user-attachments/assets/340756f0-ed7a-4817-beb6-dd6db41441dd)
+
+March 11, 2025 
+
+Preparding all my systems for a rebranding from imp-world into Empire connecting all my talents into one system.
