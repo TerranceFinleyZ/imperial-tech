@@ -167,3 +167,11 @@ Finished Port plans on rebrannding.
 March 11, 2025 
 
 Preparding all my systems for a rebranding from imp-world into Empire connecting all my talents into one system.
+
+April 15, 2025
+
+Made New Logo and created a new Facebook, TikTok, Instagram, YouTube, Github, Pinterest.
+
+May 13, 2025 
+
+Setting the stage for the launch.
