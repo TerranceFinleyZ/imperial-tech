@@ -172,6 +172,8 @@ April 15, 2025
 
 Made New Logo and created a new Facebook, TikTok, Instagram, YouTube, Github, Pinterest.
 
+![Empire](https://github.com/user-attachments/assets/9ee67a3c-1b2c-4cb0-8507-12d7d45c444b)
+
 May 13, 2025 
 
 Setting the stage for the launch.
