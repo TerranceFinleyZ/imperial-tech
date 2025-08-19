@@ -179,3 +179,15 @@ Made New Logo and created a new Facebook, TikTok, Instagram, YouTube, Github, Pi
 May 13, 2025 
 
 Setting the stage for the launch.
+
+June 10, 2025
+
+Starting new side journey.
+
+July 20, 2025
+
+Made new design with Canva learning Hubspot and AI chatbots.
+
+Augest 18, 2025
+
+Built and launch ASAPJOBS a recruting agency using Hubspot, Ai, vite.js https://asapjobs-ref.netlify.app/
