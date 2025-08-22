@@ -191,3 +191,7 @@ Made new design with Canva learning Hubspot and AI chatbots.
 Augest 18, 2025
 
 Built and launch ASAPJOBS a recruting agency using Hubspot, Ai, vite.js https://asapjobs-ref.netlify.app/
+
+Augest 22, 2025
+
+updated ASAP Repo: https://github.com/TerranceFinleyZ/ASAP_JOBS/tree/main
