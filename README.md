@@ -1,4 +1,4 @@
-# Imperial-World.
+# Empire/World aka Imperial-World.
 
 rebranding from Mel-tech into IMP-world
 
@@ -195,3 +195,7 @@ Built and launch ASAPJOBS a recruting agency using Hubspot, Ai, vite.js https://
 Augest 22, 2025
 
 updated ASAP Repo: https://github.com/TerranceFinleyZ/ASAP_JOBS/tree/main
+
+September 07, 2025
+
+Building Empire new main website with animated logo using blender and Working AI chat for clients.
