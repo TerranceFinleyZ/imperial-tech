@@ -198,4 +198,4 @@ updated ASAP Repo: https://github.com/TerranceFinleyZ/ASAP_JOBS/tree/main
 
 September 07, 2025
 
-Building Empire new main website with animated logo using blender and Working AI chat for clients.
+Building Empire new main website with animated logo using blender and Working AI chat for clients using Vite.js, RRV7 also using Hubspot CRM.
