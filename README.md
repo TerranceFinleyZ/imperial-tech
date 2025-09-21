@@ -208,3 +208,10 @@ https://github.com/user-attachments/assets/2fe9ccbb-0e18-48b1-aff8-121f946a82ed
 
 September 18, 2025
 Finished the website for Empire world launching soon. 
+
+September 20, 2025
+https://empireworld.studio/
+
+https://github.com/user-attachments/assets/b34f66ab-7626-4e75-b9ac-37ae6cc5f1c5
+
+
