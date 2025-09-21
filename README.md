@@ -202,7 +202,7 @@ Building Empire new main website with animated logo using blender and Working AI
 
 September 14, 2025
 
-New animated logo completed  
+New animated logo completed using Blender
 
 https://github.com/user-attachments/assets/2fe9ccbb-0e18-48b1-aff8-121f946a82ed
 
