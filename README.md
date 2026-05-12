@@ -214,4 +214,26 @@ https://empireworld.studio/
 
 https://github.com/user-attachments/assets/b34f66ab-7626-4e75-b9ac-37ae6cc5f1c5
 
+April 25, 2026 
+AI github Copilet assistaint activated.
+
+April 27, 2026 
+developed WR using next.js using stripe next.js and react-native 
+
+April 29, 2026
+developed Locknot a debate website with app using stripe next.js and react-native 
+
+April 31, 2026
+developed TGH a streaming and men health group: https://thegodhand.netlify.app/ built in Next.js and web3email collecter.
+
+May 3, 2026 
+developed BB using next.js 
+
+May 7, 2026 
+Set-up openclaw ai in a gemini api to build marketing ads using ubuntu 
+
+May 10, 2026
+Updated the TAP website using modern ai ui and nano-banana upscalling and Hailuo Ai for animated images. https://theascendancyparadox-officialsite.netlify.app/
+
+
 
