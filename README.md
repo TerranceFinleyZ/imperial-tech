@@ -1,3 +1,4 @@
+
 # Empire/World aka Imperial-World.
 
 rebranding from Mel-tech into IMP-world
@@ -234,6 +235,6 @@ Set-up openclaw ai in a gemini api to build marketing ads using ubuntu
 
 May 10, 2026
 Updated the TAP website using modern ai ui and nano-banana upscalling and Hailuo Ai for animated images. https://theascendancyparadox-officialsite.netlify.app/
-
+<img width="1920" height="1200" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/ec7daa70-ef52-48ba-8aef-a0bb65c3b842" />
 
 
