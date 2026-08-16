@@ -242,6 +242,8 @@ Clipbun.io made first payed video for the busness long form contect.
 
 Jun 5, 2026 Working on building the super-nano-matrix-cluster (2 phones in 98 left to go).
 
-July 16, Built and launch Babelcore Made with Next.js + Claude using Hermes ollama ai and Oracles & Supabase.
+July 16, Built and launch Babelcore Made with Next.js + Claude using Hermes + ollama ai and Oracles & Supabase.
+https://babelcore.net/
+
 <img width="1024" height="1459" alt="BCO 90333b45-87ca-4b64-989b-11c63f003f0a-1" src="https://github.com/user-attachments/assets/a6b672e4-7a4d-428b-90b3-4e7116fcb76d" />
 
